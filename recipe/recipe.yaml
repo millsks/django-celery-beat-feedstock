@@ -32,7 +32,6 @@ requirements:
     - python-crontab >=2.3.4
     - cron-descriptor >=1.2.32,<2.0.0
     - django >=2.2,<6.1
-    - pytest
     - kombu
 tests:
   - python:
